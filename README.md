@@ -1,6 +1,6 @@
 # Chat Reactor
 
-> Reactive chat environments
+> Chat that adjusts the rooms mood depending on what the users are typing into chat. 
 
 ## Team
 
